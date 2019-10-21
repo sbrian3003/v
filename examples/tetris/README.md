@@ -13,3 +13,8 @@ Tetris has a temporary dependency on GLFW.
 
 ## Windows 
 Copy `thirdparty/glfw/glfw3.dll` to this directory. 
+
+## Arch (and Manjaro)
+`sudo pacman -S glfw-x11` 
+## Arch (and Manjaro)
+`sudo pacman -S glfw-x11` 
