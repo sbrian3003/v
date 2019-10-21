@@ -39,7 +39,19 @@ this backend.
 
 
 
-
+- Typo check. If a variable/function/module etc is misspelled,
+V will suggest the correct name.
+- Lots of Microsoft C fixes, and a separate Travis instance for
+this backend.
+- Bitwise operators `|`, `^`, `&` no longer work with booleans.- Typo check. If a variable/function/module etc is misspelled,
+V will suggest the correct name.
+- Lots of Microsoft C fixes, and a separate Travis instance for
+this backend.
+- Bitwise operators `|`, `^`, `&` no longer work with booleans.- Typo check. If a variable/function/module etc is misspelled,
+V will suggest the correct name.
+- Lots of Microsoft C fixes, and a separate Travis instance for
+this backend.
+- Bitwise operators `|`, `^`, `&` no longer work with booleans.
 
 ## V 0.1.19
 *12 Sep 2019*
