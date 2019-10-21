@@ -44,10 +44,19 @@ git clone https://github.com/vlang/v
 cd v
 make
 ```
-
-That's it! Now you have a V executable at `[path to V repo]/v`. `[path to V repo]` can be anywhere.
-
-V is being constantly updated. To update V, simply run
+- Typo check. If a variable/function/module etc is misspelled,
+V will suggest the correct name.
+- Lots of Microsoft C fixes, and a separate Travis instance for
+this backend.
+- Bitwise operators `|`, `^`, `&` no longer work with booleans.- Typo check. If a variable/function/module etc is misspelled,
+V will suggest the correct name.
+- Lots of Microsoft C fixes, and a separate Travis instance for
+this backend.
+- Bitwise operators `|`, `^`, `&` no longer work with booleans.- Typo check. If a variable/function/module etc is misspelled,
+V will suggest the correct name.
+- Lots of Microsoft C fixes, and a separate Travis instance for
+this backend.
+- Bitwise operators `|`, `^`, `&` no longer work with booleans.
 
 ```
 v up
