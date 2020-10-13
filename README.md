@@ -37,7 +37,7 @@ V 1.0 release is planned for December 2019. Right now V is in an alpha stage.
 ## Installing V from source
 
 ### Linux, macOS, Windows, *BSD, Solaris, WSL, Android, Raspbian
-
+s
 
 ```bash
 git clone https://github.com/vlang/v
