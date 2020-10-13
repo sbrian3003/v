@@ -44,7 +44,7 @@ git clone https://github.com/vlang/v
 cd v
 make
 ```
-
+s
 That's it! Now you have a V executable at `[path to V repo]/v`. `[path to V repo]` can be anywhere.
 
 V is being constantly updated. To update V, simply run
