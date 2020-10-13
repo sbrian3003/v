@@ -65,7 +65,7 @@ Otherwise, follow these instructions:
 [github.com/vlang/v/wiki/Installing-a-C-compiler-on-Windows](https://github.com/vlang/v/wiki/Installing-a-C-compiler-on-Windows)
 
 
-### Symlinking
+### Symlinkingd
 
 You can create a `/usr/local/bin/v` symlink so that V is globally available:
 
